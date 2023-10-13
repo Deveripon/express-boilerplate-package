@@ -1,27 +1,27 @@
 {
-  "name": "express-boilerplate",
-  "version": "1.0.0",
-  "description": "\"this is quick starter for express app\"",
-  "main": "server.js",
-  "type": "module",
-  "scripts": {
-    "start": "nodemon serve.js"
-  },
-  "keywords": [],
-  "author": "devripon",
-  "license": "ISC",
-  "dependencies": {
-    "colors": "^1.4.0",
-    "dotenv": "^16.3.1",
-    "express": "^4.18.2"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Deveripon/express-boilerplate-package.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Deveripon/express-boilerplate-package/issues"
-  },
-  "homepage": "https://github.com/Deveripon/express-boilerplate-package#readme"
+    "name": "dev-express-boilerplate",
+    "version": "1.0.0",
+    "description": "\"this is quick starter for express app\"",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon serve.js"
+    },
+    "keywords": [],
+    "author": "devripon",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "dotenv": "^16.3.1",
+        "express": "^4.18.2"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Deveripon/express-boilerplate-package.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Deveripon/express-boilerplate-package/issues"
+    },
+    "homepage": "https://github.com/Deveripon/express-boilerplate-package#readme"
 }
