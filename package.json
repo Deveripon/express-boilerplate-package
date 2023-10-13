@@ -1,6 +1,6 @@
 {
-    "name": "dev-express-boilerplate",
-    "version": "1.0.0",
+    "name": "express-boilerplate",
+    "version": "1.0.1",
     "description": "\"this is quick starter for express app\"",
     "main": "server.js",
     "type": "module",
